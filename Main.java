@@ -1,0 +1,12 @@
+
+public class Main {
+
+    public static void main(String[] args) {
+        String variabelString;
+        Pengguna pengguna = new Pengguna();
+        Buku buku = new Buku();
+        Komik komik = new Komik();
+        Tamu tamu = new Tamu();
+        Komputer komputer = new Komputer();
+    }
+}
